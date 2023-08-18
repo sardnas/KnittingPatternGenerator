@@ -4,5 +4,6 @@ Syfte: Generera mönster genom att beräkna antalet uppläggningsmaskor, ökning
 
 Stickningsnål
 Garn
-Slätstickning/flätor/lace
-Storlek i cm
+Slätstickning/respr/flätor/lace
+Längd i cm
+Storlek
