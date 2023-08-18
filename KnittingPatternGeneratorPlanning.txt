@@ -1,0 +1,8 @@
+KnittingPatternGenerator
+
+Syfte: Generera mönster genom att beräkna antalet uppläggningsmaskor, ökningar & minskningar. Detta baserat på data från swatches som jag ska göra och ladda upp. De finns samlade i en JSON, med följande värden:
+
+Stickningsnål
+Garn
+Slätstickning/flätor/lace
+Storlek i cm
