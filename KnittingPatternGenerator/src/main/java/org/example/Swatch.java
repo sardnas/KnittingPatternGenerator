@@ -1,18 +1,19 @@
 package org.example;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
 import org.example.enums.Material;
 import org.example.enums.StitchType;
 import org.example.enums.YarnWeight;
 
 public class Swatch {
-    private int needleSizeMm;
+    private double needleSizeMm;
     private int heightCm;
     private int widthCm;
     private Material material;
     private StitchType stitchType;
     private YarnWeight yarnWeight;
 
-    public Swatch(int needleSizeMm, int heightCm, int widthCm, Material material, StitchType stitchType, YarnWeight yarnWeight) {
+    public Swatch(@JsonProperty("needleSizeMm") double needleSizeMm, @JsonProperty("heightCm") int heightCm,@JsonProperty("widthCm") int widthCm, @JsonProperty("material") Material material,@JsonProperty("stitchType") StitchType stitchType,@JsonProperty("yarnWeight") YarnWeight yarnWeight) {
         this.needleSizeMm = needleSizeMm;
         this.heightCm = heightCm;
         this.widthCm = widthCm;
@@ -21,7 +22,7 @@ public class Swatch {
         this.yarnWeight = yarnWeight;
     }
 
-    public int getNeedleSizeMm() {
+    public double getNeedleSizeMm() {
         return needleSizeMm;
     }
 
