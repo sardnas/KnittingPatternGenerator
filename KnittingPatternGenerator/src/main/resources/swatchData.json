@@ -3,6 +3,7 @@
   "needleSizeMm": 4,
   "heightCm": 10,
   "widthCm": 10,
+    "stitches": "21x28",
   "material": "Wool",
   "stitchType": "Stockinette",
   "yarnWeight": "Lace"
@@ -11,6 +12,7 @@
     "needleSizeMm": 3.5,
     "heightCm": 10,
     "widthCm": 10,
+    "stitches": "0x0",
     "material": "Wool",
     "stitchType": "Rib",
     "yarnWeight": "Lace"

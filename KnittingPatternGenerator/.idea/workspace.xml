@@ -6,10 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="bb5d2241-4410-402d-a580-db5976cf6791" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CalculatedInstructions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CalculatedInstructions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SweaterPattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Swatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Swatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SweaterPattern.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/swatchData.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/swatchData.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

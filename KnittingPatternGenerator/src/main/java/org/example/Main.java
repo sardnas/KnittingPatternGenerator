@@ -12,8 +12,6 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) throws IOException {
         List<Swatch> swatches = generateListOfSwatches();
-        SweaterPattern pattern = new SweaterPattern(Size.M, swatches, false, false, false);
-        System.out.println(pattern.getPattern());
     }
 
     private static List<Swatch> generateListOfSwatches() throws IOException {
